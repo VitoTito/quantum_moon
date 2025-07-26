@@ -1,0 +1,11 @@
+path: data
+train:
+  images: images/train
+  labels: annotations/train
+
+val:
+  images: images/val
+  labels: annotations/val
+
+nc: 1
+names: ['QuantumMoon']

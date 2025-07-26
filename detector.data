@@ -1,5 +1,0 @@
-classes=1
-train=quantum_moon/train.txt
-valid=quantum_moon/test.txt
-names=quantum_moon/custom.names
-backup=backup/
