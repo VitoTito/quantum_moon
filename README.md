@@ -1,4 +1,4 @@
-# YoloV3 Algorithm
+# YOLOv11: Detecting the Quantum Moon in Outer Wilds
 
 <p align="center">
   <img src="data/OW.png" width="600" alt="Quantum Moon Banner">
