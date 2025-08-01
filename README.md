@@ -75,3 +75,10 @@ python main.py infer --source infer/test_image.png --weights models/yolo11-quant
 python main.py infer --source infer/test_video.mp4 --weights models/yolo11-quantummoon.pt
 ```
 
+
+## Coming soon
+
+- Graphs (PR curve, overall results)
+- New test data
+
+Stay tuned!
